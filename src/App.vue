@@ -5,12 +5,8 @@
 </template>
 
 <script>
-import waveAnimation from './components'
 export default {
   name: 'app',
-  components: {
-    waveAnimation
-  }
 }
 </script>
 
